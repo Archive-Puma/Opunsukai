@@ -49,6 +49,8 @@
 | --- | --- | --- |
 | 🆒 | [DeHashed](https://www.dehashed.com/) | Check if your accounts have been pwned (See the password leak with Premium account) |
 | 🆒 | [HaveIBeenPwned](https://haveibeenpwned.com/) | Check if your accounts have been pwned |
+| 🆒 | [Shodan](https://www.shodan.io/) | Search engine for Internet-connected devices |
+| 🆒 | [Shodan 2000](https://2000.shodan.io/) | Aesthetic Shodan |
 | 🆒 | [The Wayback Machine](https://archive.org/web/) | Explore what the pages looked like in the past |
 
 </details>
