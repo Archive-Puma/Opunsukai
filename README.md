@@ -1,14 +1,20 @@
 <h1 align="center">
     <img src=".github/readme/logot.png" width="500">
+    <br>
     <img src=".github/readme/header.jpg" width="500">
+    <br>
     <img src=".github/readme/logob.png" width="500">
 </h1>
 
 ## 🖨️ 3D Design
 
+<details>
+
 | Tags | Site | Explanation |
 | --- | --- | --- |
 | 🆒 | [Tinkercad](https://www.tinkercad.com) | 3D Design made easy |
+
+</details>
 
 ## 🧠 Artificial Intelligence
 
