@@ -24,6 +24,8 @@
 | --- | --- | --- |
 | 🆒🆕 | [Mario Bros. as a Goomba](http://www.byronknoll.com/goomba.html) | Play Super Mario Bros. from the perspective of a Goomba |
 | 🆒🆕 | [CandyBox 2](https://candybox2.github.io/) | ASCII awesome game (also "How to modify game saved data) |
+| 🆒 | [Code](https://code.org/) | Coding games to learn programming |
+| 🆒 | [CodeCombat](https://codecombat.com/) | Coding games to learn programming |
 
 </details>
 
@@ -60,7 +62,11 @@
 | Tags | Site | Explanation |
 | --- | --- | --- |
 | 🆒 | [AppInventor2](https://appinventor.mit.edu/) | Android Apps made easy |
+| 🆒 | [Bitsbox](https://bitsbox.com/hoc2016.html) | Simulate how to create apps with code |
 | 🆒 | [Calliope](https://makecode.calliope.cc/) | Just Micro:bit improved |
+| 🆒🆕 | [CelloCAD](http://cellocad.org/) | Program real bacterias as an electrical circuit! |
+| 🆒 | [Code](https://code.org/) | Coding games to learn programming |
+| 🆒 | [CodeCombat](https://codecombat.com/) | Coding games to learn programming |
 | 🆒 | [Dialogflow](https://dialogflow.cloud.google.com/) | Voice Assistant made easy |
 | 🆒 | [Micro:bit](https://makecode.microbit.org/) | Arduino for kids |
 | 🆒 | [Playground](https://makecode.adafruit.com/) | Just Callipe improved |
