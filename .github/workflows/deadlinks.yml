@@ -1,0 +1,20 @@
+# Workflow to check dead links
+
+name: Check dead links
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+    # Git clone
+    - uses: actions/checkout@v2
+    # Check dead links
+    - uses: cosasdepuma/checklinks@v1
