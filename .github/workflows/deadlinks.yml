@@ -17,4 +17,4 @@ jobs:
     # Git clone
     - uses: actions/checkout@v2
     # Check dead links
-    - uses: cosasdepuma/checklinks@v1
+    - uses: cosasdepuma/checklinks-action@v1
