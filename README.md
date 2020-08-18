@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src=".github/readme/header.jpg" width="500">
-    <h1><b>Ōpunsukai</b> <small>オープンスカイ</small></h1>
+    <h1 align="center"><b>Ōpunsukai</b> <small>オープンスカイ</small></h1>
 </h1>
 
 ## 🧠 Artificial Intelligence
