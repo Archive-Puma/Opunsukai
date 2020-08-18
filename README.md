@@ -53,6 +53,21 @@
 
 </details>
 
+## 💻 Programming
+
+<details>
+
+| Tags | Site | Explanation |
+| --- | --- | --- |
+| 🆒 | [AppInventor2](https://appinventor.mit.edu/) | Android Apps made easy |
+| 🆒 | [Calliope](https://makecode.calliope.cc/) | Just Micro:bit improved |
+| 🆒 | [Dialogflow](https://dialogflow.cloud.google.com/) | Voice Assistant made easy |
+| 🆒 | [Micro:bit](https://makecode.microbit.org/) | Arduino for kids |
+| 🆒 | [Playground](https://makecode.adafruit.com/) | Just Callipe improved |
+| 🐱 | [Scratch](https://scratch.mit.edu/) | Argh. Just... Scratch. |
+
+</details>
+
 ## 🐿️ Weirdest Internet
 
 <details>
