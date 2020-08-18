@@ -1,6 +1,7 @@
 <h1 align="center">
+    <img src=".github/readme/logot.png" width="500">
     <img src=".github/readme/header.jpg" width="500">
-    <h1 align="center"><b>Ōpunsukai</b> <small>オープンスカイ</small></h1>
+    <img src=".github/readme/logob.png" width="500">
 </h1>
 
 ## 🧠 Artificial Intelligence
@@ -44,7 +45,7 @@
 
 | Tags | Site | Explanation |
 | --- | --- | --- |
-| 🆒🆕 | [Every Second](https://everysecond.io7) | Check what's happening every second |
+| 🆒🆕 | [Every Second](https://everysecond.io/) | Check what's happening every second |
 | 🆒🆕 | [lmgtfy](https://es.lmgtfy.com/) | Explains with an animation how to search the Internet |
 | 🆒 | [Spurius Correlations](https://www.tylervigen.com/spurious-correlations) | Curious, strange and meaningless correlations |
 | 🆒 | [The Wayback Machine](https://archive.org/web/) | Explore what the pages looked like in the past |
@@ -58,7 +59,7 @@
 
 | Tags | Site | Explanation |
 | --- | --- | --- |
-| 🆒🆕 | [11111111111111111...](111111111111111111111111111111111111111111111111111111111111.com) | Arnold Sailormoonegger |
+| 🆒🆕 | [11111111111111111...](http://111111111111111111111111111111111111111111111111111111111111.com) | Arnold Sailormoonegger |
 | 🆒🆕 | [Cyclical Website](https://orteil.dashnet.org/nested) | An infinite web page |
 | 🐎 | [Endless Horse](http://endless.horse/) | Just and endless horse |
 | 🆒🆕 | [Infinite Zoom](https://infinitezoom.net/) | Infinite zoom using geometric and fractal patterns | 
